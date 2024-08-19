@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/hutest/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/examplepost010/</loc>
+    <loc>http://localhost:1313/hutest/posts/examplepost010/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/hutest/posts/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hutest/tags/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/untagged/</loc>
+    <loc>http://localhost:1313/hutest/tags/untagged/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/examplepost/</loc>
+    <loc>http://localhost:1313/hutest/posts/examplepost/</loc>
     <lastmod>2024-08-19T21:50:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/hutest/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/hutest/series/</loc>
   </url>
 </urlset>
