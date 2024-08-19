@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ⭐⭐⭐</title>
-        <link>localhost/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>Recent content in Posts on ⭐⭐⭐</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 19 Aug 2024 21:54:02 +0200</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Examplepost010</title>
-            <link>localhost/posts/examplepost010/</link>
+            <link>//localhost:1313/posts/examplepost010/</link>
             <pubDate>Mon, 19 Aug 2024 21:54:02 +0200</pubDate>
             
-            <guid>localhost/posts/examplepost010/</guid>
+            <guid>//localhost:1313/posts/examplepost010/</guid>
             <description>Tomorrow Tomorrow and tomorrow and tomorrow
 creeps in its petty pace.
 From day to day&amp;hellip;
@@ -29,10 +29,10 @@ To the last syllable of recorded time&amp;hellip;</description>
         
         <item>
             <title>Examplepost</title>
-            <link>localhost/posts/examplepost/</link>
+            <link>//localhost:1313/posts/examplepost/</link>
             <pubDate>Mon, 19 Aug 2024 21:50:00 +0200</pubDate>
             
-            <guid>localhost/posts/examplepost/</guid>
+            <guid>//localhost:1313/posts/examplepost/</guid>
             <description>The Beginning </description>
             <content type="html"><![CDATA[<h1 id="the-beginning">The Beginning</h1>
 ]]></content>
