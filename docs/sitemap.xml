@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hutest/</loc>
+    <loc>https://dr-ive.github.io/hutest/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/posts/examplepost010/</loc>
+    <loc>https://dr-ive.github.io/hutest/posts/examplepost010/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/posts/</loc>
+    <loc>https://dr-ive.github.io/hutest/posts/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/tags/</loc>
+    <loc>https://dr-ive.github.io/hutest/tags/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/tags/untagged/</loc>
+    <loc>https://dr-ive.github.io/hutest/tags/untagged/</loc>
     <lastmod>2024-08-19T21:54:02+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/posts/examplepost/</loc>
+    <loc>https://dr-ive.github.io/hutest/posts/examplepost/</loc>
     <lastmod>2024-08-19T21:50:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hutest/blog/</loc>
+    <loc>https://dr-ive.github.io/hutest/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/hutest/series/</loc>
+    <loc>https://dr-ive.github.io/hutest/series/</loc>
   </url>
 </urlset>

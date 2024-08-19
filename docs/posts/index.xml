@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ⭐⭐⭐</title>
-        <link>http://localhost:1313/hutest/posts/</link>
+        <link>https://dr-ive.github.io/hutest/posts/</link>
         <description>Recent content in Posts on ⭐⭐⭐</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 19 Aug 2024 21:54:02 +0200</lastBuildDate>
-        <atom:link href="http://localhost:1313/hutest/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dr-ive.github.io/hutest/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Examplepost010</title>
-            <link>http://localhost:1313/hutest/posts/examplepost010/</link>
+            <link>https://dr-ive.github.io/hutest/posts/examplepost010/</link>
             <pubDate>Mon, 19 Aug 2024 21:54:02 +0200</pubDate>
             
-            <guid>http://localhost:1313/hutest/posts/examplepost010/</guid>
+            <guid>https://dr-ive.github.io/hutest/posts/examplepost010/</guid>
             <description>Tomorrow Tomorrow and tomorrow and tomorrow
 creeps in its petty pace.
 From day to day&amp;hellip;
@@ -29,10 +29,10 @@ To the last syllable of recorded time&amp;hellip;</description>
         
         <item>
             <title>Examplepost</title>
-            <link>http://localhost:1313/hutest/posts/examplepost/</link>
+            <link>https://dr-ive.github.io/hutest/posts/examplepost/</link>
             <pubDate>Mon, 19 Aug 2024 21:50:00 +0200</pubDate>
             
-            <guid>http://localhost:1313/hutest/posts/examplepost/</guid>
+            <guid>https://dr-ive.github.io/hutest/posts/examplepost/</guid>
             <description>The Beginning </description>
             <content type="html"><![CDATA[<h1 id="the-beginning">The Beginning</h1>
 ]]></content>
