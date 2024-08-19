@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on ⭐⭐⭐</title>
+    <link>//localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on ⭐⭐⭐</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 19 Aug 2024 21:54:02 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examplepost010</title>
+      <link>//localhost:1313/posts/examplepost010/</link>
+      <pubDate>Mon, 19 Aug 2024 21:54:02 +0200</pubDate>
+      <guid>//localhost:1313/posts/examplepost010/</guid>
+      <description>Tomorrow Tomorrow and tomorrow and tomorrow&#xA;creeps in its petty pace.&#xA;From day to day&amp;hellip;&#xA;To the last syllable of recorded time&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Examplepost</title>
+      <link>//localhost:1313/posts/examplepost/</link>
+      <pubDate>Mon, 19 Aug 2024 21:50:00 +0200</pubDate>
+      <guid>//localhost:1313/posts/examplepost/</guid>
+      <description>The Beginning </description>
+    </item>
+  </channel>
+</rss>
