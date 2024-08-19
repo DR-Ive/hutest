@@ -49,7 +49,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "hello friend, what's up? 😉"
-      logoHomeLink = "/hutest/"
+      logoHomeLink = "/hutest"
     # or
     #
     # path = "/img/your-example-logo.svg"
