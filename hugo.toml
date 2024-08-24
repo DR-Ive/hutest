@@ -39,7 +39,7 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "⭐⭐⭐"
+    title = "⭐"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -48,7 +48,7 @@ publishDir = "docs"
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "hello friend, what's up? 😉"
+      logoText = "hello, what's up? 😉"
       logoHomeLink = "/hutest/"
     # or
     #
