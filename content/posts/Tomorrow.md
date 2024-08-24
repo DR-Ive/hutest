@@ -12,9 +12,6 @@ tags:
 # Tomorrow
 
 Tomorrow and tomorrow and tomorrow
-
 creeps in its petty pace.
-
 From day to day...
-
 To the last syllable of recorded time...
