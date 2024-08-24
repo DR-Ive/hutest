@@ -10,17 +10,19 @@
         <atom:link href="https://dr-ive.github.io/hutest/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Examplepost010</title>
+            <title>Tomorrow...</title>
             <link>https://dr-ive.github.io/hutest/posts/tomorrow/</link>
             <pubDate>Mon, 19 Aug 2024 21:54:02 +0200</pubDate>
             
             <guid>https://dr-ive.github.io/hutest/posts/tomorrow/</guid>
-            <description>Tomorrow Tomorrow and tomorrow and tomorrow creeps in its petty pace. From day to day&amp;hellip; To the last syllable of recorded time&amp;hellip;</description>
+            <description>Tomorrow Tomorrow and tomorrow and tomorrow \n creeps in its petty pace.
+From day to day&amp;hellip;
+To the last syllable of recorded time&amp;hellip; \n</description>
             <content type="html"><![CDATA[<h1 id="tomorrow">Tomorrow</h1>
-<p>Tomorrow and tomorrow and tomorrow
-creeps in its petty pace.
-From day to day&hellip;
-To the last syllable of recorded time&hellip;</p>
+<p>Tomorrow and tomorrow and tomorrow \n
+creeps in its petty pace.<br>
+From day to day&hellip;<br>
+To the last syllable of recorded time&hellip; \n</p>
 ]]></content>
         </item>
         
